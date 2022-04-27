@@ -15,7 +15,8 @@ body {
   line-height: 1.5;
   height: 100vh;
   position: relative;
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
   align-items: flex-start;
   justify-content: center;
   background: linear-gradient(to top left, #28b487, #7dd56f);

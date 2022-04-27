@@ -1,3 +1,4 @@
+/*Mobile View*/
 @media (max-width: 34em) {
   body {
     grid-template-columns: 1fr;
